@@ -1,0 +1,28 @@
+body {
+   color: white; 
+   background-color: #000a2e;
+   font-family: monospace;
+   font-weight: 200;
+   font-size: x-large;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 10px;
+    border: 3px solid #008bf2;
+    background: #008bf2;
+    color: #fff;
+    cursor: pointer;
+    margin: 15px 0px;
+}
+
+h1 {
+    font-size: 40px;
+}
